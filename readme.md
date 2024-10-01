@@ -2,4 +2,4 @@
 
 The Min-Max algorithm is a decision-making tool used in game theory, primarily for zero-sum games where one player's gain is another's loss. It evaluates the game tree by assuming that the opponent is playing optimally and aims to either maximize or minimize the outcome, depending on the role.
 
-For more details about the project and a complete guide on how the API endpoints work, check out the full article on Linkedin
+For more details about the project and a complete guide on how the API endpoints work, check out the full article on [Linkedin](https://www.linkedin.com/pulse/building-efficient-apis-ai-algorithms-django-guide-baradaran-noveiry-forof/?trackingId=qtVsQhGLRX6Fm9VFhLGDHQ==)
